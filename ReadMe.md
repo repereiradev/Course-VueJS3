@@ -1,6 +1,6 @@
 # Vue.js 3 - Course Projects 📚
 
-This repository contains the projects developed during the **Vue.js 3 - From Beginner to Advanced** course, where I learned to use Vue.js, Vuex, Vue Router, and other tools to build modern and dynamic applications.
+This repository contains the projects developed during the **Vue.js 3 - From Beginner to Advanced (UDEMY)** course, where I learned to use Vue.js, Vuex, Vue Router, and other tools to build modern and dynamic applications.
 
 ## About the Course 🎓
 
